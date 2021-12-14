@@ -1,0 +1,2 @@
+# Globalbizz
+global
